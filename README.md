@@ -5,7 +5,7 @@
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
 [circleci-url]: https://circleci.com/gh/nestjs/nest
 
-  <p align="center">This project demonstrate the basic structure for setting up multi-tenant application in NestJs, using the provider scopes to get a database connection from the DB manager cache as per client's request.
+  <p align="center">This project demonstrates the basic structure for setting up multi-tenant application in NestJs, using the provider scopes to get a database connection from the DB manager cache as per client's request.
 
 </p>
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
